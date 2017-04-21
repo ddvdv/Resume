@@ -1,3 +1,7 @@
+body	{
+	background-color: #E5E4E2;
+}
+
 .page	{
 	width: 900px;
 	margin: auto;
@@ -60,4 +64,8 @@ img {
 .description p {
 	margin-top: 0px;
 	margin-bottom: 20px;
+}
+
+.xp:hover{
+	color: green;
 }
